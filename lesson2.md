@@ -4,12 +4,6 @@ title: Lesson 2 - Learning Markdown
 nav_order: 3
 ---
 
-<!--
-# GitHub Pages | Learning Markdown
-[View these instructions in PDF format](lesson1.pdf)
-<br>
-<br>
--->
 # Lesson 2: Learning Markdown 
 One of the really nice things about GitHub (and GitHub Pages, which we'll learn about later) is that you can use Markdown to format text on a web page without the use (or knowledge!) of HTML coding. This makes it really easy to create content. In this section, you'll learn a bit more about Markdown and how to use it to create formatted text. 
 
@@ -19,6 +13,7 @@ One of the really nice things about GitHub (and GitHub Pages, which we'll learn 
 - Learn how to create special symbols and equations using HTML code
 
 ## Video
+<iframe width="853" height="480" src="https://web.microsoftstream.com/embed/video/60cb83d9-19ed-4bde-bcfe-59c82655e109?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 ## 1. What is Markdown? 
 Borrowed shamelessly from Github's [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) page: 
