@@ -112,7 +112,6 @@ Finished? You now have everything you need to complete Part 2 of your climate cl
   - Click on the ```<> Code``` tab, 
   - Click on the green **Code** button, and select **Download ZIP**
   - Download your zip file, extract it, and upload your markdown file to Avenue to Learn
-  - D
 
 ## 7. Learn more: Make a web page with GitHub Pages (optional)
 If you are interested in learning how to turn your markdown documents into a functioning website, navigate to [Lesson 3](lesson3) to learn how to use GitHub Pages.
