@@ -81,3 +81,8 @@ As you've already experienced, the nice thing about jekyll is that it doesn't ju
   - **NOTE**: The embedded video won't show in your rendered Markdown file--it will only appear on your final webpage. 
   - **NOTE**: Remember that it may take a couple of minutes for changes to propagate from your GitHub repo to your webpage.
 - You can do the same with other content that provides embed codes, like Google Slideshows, for example.
+
+## 4. Learn about git and GitHub Desktop
+If you're interested in learning more about how you can do version control in your local folders and connect them to GitHub repositories see: 
+- [This intro to Git and GitHub tutorial](https://ubc-library-rc.github.io/intro-git/) from UBC Library Research Commons.
+- [This intro to GitHub Desktop tutorial](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/creating-your-first-repository-using-github-desktop) from GitHub.

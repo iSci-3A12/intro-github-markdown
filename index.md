@@ -20,7 +20,6 @@ By the end of this tutorial, you will be able to:
 - Create a GitHub repository (from scratch and by cloning/forking an existing one)
 - Create, edit, and manage versions of files in a GitHub repository
 - Describe the basics of versioning and versioning software; communicate their value
-- Explain the differences between git and GitHub, and detail how they work together
 - Use Markdown to format text in a simple yet effective manner
 - *Bonus:* Use GitHub Pages to create simple static web pages using jekyll
 - Identify where you can find more information to experiment and learn on your own
