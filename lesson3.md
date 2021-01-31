@@ -20,10 +20,10 @@ In this step, we'll explore some of the functionality available in a GitHub repo
 **NOTE**: By default, GitHub Pages expects at least one file in the ```docs``` folder named ```index.md```. This file becomes the main (home) page for the web page.
 
 ## 2. Customize pages | What is jekyll?
-You may have noticed by now that there is another file (```config.yml```) in your ```docs``` folder that you didn't create or put there. This is your configuration file, and it's written in a language called [YAML](https://en.wikipedia.org/wiki/YAML). The ```config.yml``` file was created at the time that you turned on GitHub pages, and it provides instructions to a static site generator software called [jekyll](https://jekyllrb.com/). GitHub pages uses jekyll in the background to convert your Markdown file(s) to formatted HTML to display as a webpages. 
+You may have noticed by now that there is another file (```_config.yml```) in your ```docs``` folder that you didn't create or put there. This is your configuration file, and it's written in a language called [YAML](https://en.wikipedia.org/wiki/YAML). The ```config.yml``` file was created at the time that you turned on GitHub pages, and it provides instructions to a static site generator software called [jekyll](https://jekyllrb.com/). GitHub pages uses jekyll in the background to convert your Markdown file(s) to formatted HTML to display as a webpages. 
 
 There is ***a lot*** that you can do with *jekyll* (within GitHub pages and as a standalone application on your computer) to generate customized webpages. While only the theme information is set in your file initially, there are many ways that you can [customize](https://help.github.com/en/github/working-with-github-pages/about-github-pages-and-jekyll#default-plugins) it. Here, we'll make a few simple ones:
-- Use the GitHub editor to edit your ```config.yml``` file.
+- Use the GitHub editor to edit your ```_config.yml``` file.
 - Replace the existing content with the following text (by copying and pasting): 
 
 ```
