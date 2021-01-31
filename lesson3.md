@@ -16,7 +16,7 @@ In this step, we'll explore some of the functionality available in a GitHub repo
   - For **Source**, select **master branch /docs folder** (note you could also pick the *master branch* option, but not for this example.)
   - Click **Choose a theme** to select a theme for your web page
 - Congratulations, your website is ready. The link will be provided in the GitHub Pages section.
-  - You may initially receive a 404 error, but after a minute, your website will appear with the content from ```index.md```
+  - You may initially receive a 404 error, but after a minute, your website will appear with the content from ```index.md``` as the landing page.
 **NOTE**: By default, GitHub Pages expects at least one file in the ```docs``` folder named ```index.md```. This file becomes the main (home) page for the web page.
 
 ## 2. Customize pages | What is jekyll?
