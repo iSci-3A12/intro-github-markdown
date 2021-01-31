@@ -107,6 +107,13 @@ nav_order: 2
 ## 6. Complete Part 2 of your Climate Claims Assignment
 Finished? You now have everything you need to complete Part 2 of your climate claims assignment, where you will take the text of your analysis (from Part 1 of the assignment) and create it as a Markdown document. You can create a new Markdown file in this repository to work on, or you can create a new repository altogether--the choice is yours. Refer to your assignment sheet for full instructions. 
 
+### Submitting your file.
+- When you've finished editing your markdown file for submission, the best way to download it is to download your entire repository as a zip file. You can do that by 
+  - Click on the ```<> Code``` tab, 
+  - Click on the green **Code** button, and select **Download ZIP**
+  - Download your zip file, extract it, and upload your markdown file to Avenue to Learn
+  - D
+
 ## 7. Learn more: Make a web page with GitHub Pages (optional)
 If you are interested in learning how to turn your markdown documents into a functioning website, navigate to [Lesson 3](lesson3) to learn how to use GitHub Pages.
 
