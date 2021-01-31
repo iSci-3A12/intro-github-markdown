@@ -27,6 +27,3 @@ By the end of this tutorial, you will be able to:
 
 Proceed to the [Preparation](preparation) page to get started.
 
-Created and presented by Jay Brodeur, McMaster University, 2021.
-
-
