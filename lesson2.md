@@ -15,6 +15,10 @@ One of the really nice things about GitHub (and GitHub Pages, which we'll learn 
 ## Video
 <iframe width="853" height="480" src="https://web.microsoftstream.com/embed/video/60cb83d9-19ed-4bde-bcfe-59c82655e109?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
 
+<!--
+<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/23ac1e94-9f53-4ca2-b986-478e30eea5f7/public?autoplay=false&automute=false"></iframe>
+--> 
+
 ## 1. What is Markdown? 
 Borrowed shamelessly from Github's [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) page: 
 > Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.

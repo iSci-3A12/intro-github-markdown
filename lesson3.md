@@ -10,6 +10,10 @@ In this optional add-on exercise, you'll learn how to use GitHub pages to turn t
 ## Video
 <iframe width="853" height="480" src="https://web.microsoftstream.com/embed/video/3425a947-ffde-4d04-a53d-d02fec51b9fd?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
 
+<!--
+<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/95c3bd16-1812-4431-9c0b-2904e578b96a/public?autoplay=false&automute=false"></iframe>
+--> 
+
 ## 1. Explore features and settings | Set up GitHub Pages
 In this step, we'll explore some of the functionality available in a GitHub repository and show you how to get started with [GitHub Pages](https://help.github.com/en/github/working-with-github-pages/about-github-pages)
 - Ensure that you've created two Markdown files in the ```docs``` folder (```index.md``` and one other), as outlined in the previous step.

@@ -20,6 +20,10 @@ nav_order: 3
 ## Video 
 <iframe width="853" height="480" src="https://web.microsoftstream.com/embed/video/8400ca29-233e-4660-b6c6-c935208b0f0b?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
 
+<!--
+<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/c0de6282-a6c3-4c0e-899c-37d6ee92a008/public?autoplay=false&automute=false"></iframe>
+--> 
+
 ## 1. Create a new GitHub repository
 A repository is a container for related materials (i.e. folders and files), that allows for them to be managed (stored, version-tracked) and shared together. Usually, you create a separate repository for each project that you are working on. [Here are the New York Times' GitHub repositories](https://github.com/nytimes), for example.
 - From your GitHub main page, click on the green **New Repository** button. This is the repository (storage location) where the content of your website will be hosted. 
