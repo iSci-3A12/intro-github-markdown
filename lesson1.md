@@ -31,7 +31,7 @@ A repository is a container for related materials (i.e. folders and files), that
     - i.e. ```https://github.com/<your-github-username>/<your-repo-name>```
 	- e.g. ```https://github.com/jasonbrodeur/test-pages```
 - Check the box to **Initialize this repository with a README**
-	- **NOTE**: Your README file is a plain text file (same as a .txt file), but the **.md** extension is used so that GitHub recognizes that the file uses markdown inside. One of the nice features of markdown files is that they are readable by almost any applications, since they are plain text files.
+  - **NOTE**: Your README file is a plain text file (same as a .txt file) that typically contains descriptive information about your repository (Who made it? What does it contain? What is it for?, etc.). The ```.md``` extension indicates to GitHub that this is a Markdown file (more on that later). One of the nice features of markdown files is that they are readable by almost any applications (and humans), since they are mostly just plain text files.
 - Click the **Create repository** button
 - Your browser will now open to the top-level page of the repository. Your repository will contain one file: **README.md**. 
 
