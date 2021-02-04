@@ -5,7 +5,7 @@ nav_order: 3
 ---
 
 # Lesson 2: Learning Markdown 
-One of the really nice things about GitHub (and GitHub Pages, which we'll learn about later) is that you can use Markdown to format text on a web page without the use (or knowledge!) of HTML coding. This makes it really easy to create content. In this section, you'll learn a bit more about Markdown and how to use it to create formatted text. 
+One of the really nice things about GitHub (and GitHub Pages, which you'll learn about later) is that you can use Markdown to format text on a web page without the use (or knowledge!) of HTML coding. This makes it really easy to create content. In this section, you'll learn a bit more about Markdown and how to use it to create formatted text. 
 
 ## Lesson objectives 
 - Learn about Markdown
@@ -23,7 +23,7 @@ One of the really nice things about GitHub (and GitHub Pages, which we'll learn 
 Borrowed shamelessly from Github's [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) page: 
 > Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.
 
-Markdown uses simple notation to apply simple formatting rules. Since it's pretty much just plain text, it's transferrable and much simpler than marked-up text like HTML or even Word or Google documents. It's also very readable in its plain text format, which is nice. For much of the writing that you do for the web, Markdown is good enough. Github uses Markdown for its documents (this document was created in markdown), as does a variety of other web platforms (Reddit and Trello, as examples). 
+Markdown uses simple notation to apply simple formatting rules. Since it's pretty much just plain text, it's transferable and much simpler than marked-up text like HTML or even Word or Google documents. It's also very readable in its plain text format, which is nice. For much of the writing that you do for the web, Markdown is good enough. Github uses Markdown for its documents (this document was created in markdown), as does a variety of other web platforms (Reddit and Trello, as examples). 
 
 ## 2. Add a header to index.md
 - Open your ```index.md``` file for editing. Remove any text that was in there from Lesson 1.
@@ -67,7 +67,7 @@ More information and references for Markdown:
 - [Daring Fireball's Markdown Introduction](https://daringfireball.net/projects/markdown/)
 
 ## 4. Adding scientific symbols and equations
-While the simplicity of Markdown is usually an asset, there are times when you need to present text using more complex formatting--for example when using symbols and equations. Given that these pieces aren't baked into Markdown, you'll need to resort to using HTML coding. This involves a bit more technical skill, but it's something that you can figure out pretty quickly with the help of Google. 
+While the simplicity of Markdown is usually an asset, there are times when you need to present text using more complex formatting--for example, when using symbols and equations. Given that these pieces aren't baked into Markdown, you'll need to resort to using HTML coding. This involves a bit more technical skill, but it's something that you can figure out pretty quickly with the help of Google. 
 
 ### Symbols
 
@@ -75,8 +75,9 @@ The W3schools [HTML Symbols reference page](https://www.w3schools.com/html/html_
 
 As discussed in the previous resource, you can use an *entity name* or an *entity number* to create a symbol. For example, to create the alpha symbol, you can do either of the following: 
 - Entering the *entity name* ```&alpha;``` will print the symbol &alpha;, OR
-- Entering the *entity number* ```&#945;``` will print the symbol &alpha;, OR
-**Note: Don't forget the semicolon at the end of the code!**
+- Entering the *entity number* ```&#945;``` will print the symbol &alpha;  
+
+**Note**: Don't forget the semicolon at the end of the code!
 
 ### Subscripts and superscripts
 Subscripts and superscripts can be created by putting placing the following HTML tags before and after the desired numerals/symbols: 
