@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lesson 2 - Learning Markdown
-nav_order: 3
+nav_order: 4
 ---
 
 # Lesson 2: Learning Markdown 

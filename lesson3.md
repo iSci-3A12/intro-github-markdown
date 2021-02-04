@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lesson 3 - GitHub Pages
-nav_order: 4
+nav_order: 5
 ---
 
 # Lesson 3: Creating webpages with GitHub Pages (optional)
