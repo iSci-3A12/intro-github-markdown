@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lesson 3 - GitHub Pages
+title: Lesson 3 - GitHub Pages (optional)
 nav_order: 5
 ---
 
