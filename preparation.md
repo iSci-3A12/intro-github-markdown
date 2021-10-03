@@ -21,4 +21,8 @@ Follow along with Jay's introductory video. Slides are posted below
 --> 
 
 ### Slides
+<iframe src="https://mcmasteru365.sharepoint.com/sites/TeamJay/_layouts/15/Doc.aspx?sourcedoc={af510e83-3ee5-4d69-842b-82ae0e3c12a4}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="610px" height="367px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+
+<!--
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQZO92R9EmxiKzhoFUAH_uldiS6jKGseVgwSgpaLfr4-TazDiHi80r_Z6JTDPute1rucZMHfGK80nmq/embed?start=false&loop=true&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+-->
